@@ -149,9 +149,134 @@ Strategic Leaders operating in complex adaptive system must concern themselves w
 
 #### Chapter 3. Leading Large Bureaucratic Organizations: The Internal Environment
 
+**Three is a need for bureaucracy**
+- the multiple systems and processes comprising a bureaucracy are essential for the large, complex, organizations like the DoD
+	- Senior leaders depend on these systems because their size and complexity preclude their ability to know every part of the organization, to interact with every employee, and to hold people personally accountable
+	- direct supervision and real-time situation awareness are impossible to obtain and maintain alone
+	- administrative structures and systems are necessary to distribute, coordinate, and supervise activities of the major sub-organizations within bureaucracy
+- bureaucracies are impersonal, favor no one, and seek to create efficiencies for the sake of the whole organization
+Strategic leaders should design and maintain bureaucratic systems that enable (not hinder) achieving strategic goals
 
-#### Chapter 4. 
+**Organizational Tensions**
+In large, complex organizations there are persistent tensions that create difficult decisions for senior leaders. Ex:
+- Balancing the opportunity costs of near-term objectives against more distance goals often focuses attention on incremental process efficiencies over long term plans
+	- Shown in the focus on near-term readiness at the expense of modernization efforts (provide capabilities needed now, vs capabilities needed in the future fight)
+- Balancing cost, schedule, and future performance within the major defense acquisition system
+- Specialized objectives of individual sub-organizations and the overall goals of the enterprise
+	- Creating specialized sub-organizations requires more effort and time to integrate those units within the enterprise
+	- Additional sub-organizations require additional administrative burden and may create operational redundancy 
+- As the need to manage environmental complexity increases, greater effort is required from the Strategic Leader to coordinate action and outputs across subunits
 
+**Organization Structure**
+Organizational structure provides an important insight into how previous strategic leaders have though about balancing organizational tensions. Examination of the governing systems and lines of authority reflect and reinforce deliberate designs for differentiating and integrating such military activities. 
+
+Options for designing organizational structure include
+- Functional purpose (service branches, USA, USSF, USAF, USN, USMC)
+- Interdependent operations (functional combatant commands, USSTRATCOM, USCYBERCOM, USTRANSCOM, USSOCOM)
+- Geographic Region (USSPACECOM, USNORTHCOM, USSOUTHCOM, USEUCOM, USAFRICOM, USINDOPACOM, USCENTCOM)
+
+Options for designing organizational decision processes
+- Planning, Programming, Budgeting and Execution (PPBE)
+- Joint Capabilities Integration and Development System (JCIDS)
+- Defense Acquisition System (DAS)
+Designed as a way to align military requirements (JCIDS) with strategy, to synch Congressional authorizations and appropriations (PPBE) and to develop and maintain capability (DAS) across massive number of internal and external stakeholders.
+
+These are example of *robust* formal standardization and consequently increased amount of bureaucracy
+
+Within bureaucratic organizations there are *informal* structures that the Senior Leaders cannot directly design or control. Informal organizations emerge from unplanned patterns of interaction and can be significantly influenced by individuals. 
+
+Informal relationships create social systems that affect work and how people experience it
+
+Informal organizations are an important source of social influence by meeting psychological needs of employees by personalizing the bureaucracy, and fulfilling social needs through friendships and trust networks
+
+Effective leadership in a bureaucracy is limited by what the formal organization enables and what the informal organization collectively supports
+
+An indicator of strategic leadership success is the alignment between an organization's formal and informal structures. Negative cultures are typically a symptom of weak alignment between the formal and informal structures within an organization
+
+Effective strategic leaders quickly recognize the root cause of frictions between formal and informal organizational structure and use their authority to modify the administrative aspects of the system to encourage desired behavior and organizational outcomes
+
+**Strategic Leadership: Levers of Control**
+There are four concrete ways (*levers of control*) for leaders to adapt organizations and enable change, two formal and two informal.
+- Formal levers - tie behavior to specific consequences through use of control systems (rewards, punishments, or evaluations). Use of formal position power to shape operational standards and define how to measure success.
+	- Boundary Levers - Change the reporting relationships, authorities, and/or the formal processes that guide operations. These changes impose or re-draw boundaries around who makes decision and how resources/rewards are allocated
+		- Denying a promotion
+		- Changes to formal decision support system (PPBE)
+		- Issuing new doctrine/policy guidance
+	- Diagnostic Levers - Change what is measured, adjusting milestones, or revising standards. Provide incentives to redirect efforts, and provide feedback about where results are not being achieved
+- Informal levers - inspire people to follow rather than compel action.
+	- Belief System Levers - directly address why people believe in the organization and what they believe about how it works. Leaders impact beliefs via the consistency in their own behaviors that model and communicate the core values and vision of the enterprise. By choosing to interact more around certain issues than others, leaders send direct and indirect messages about their (and organizational) priorities.
+	- Interactive Lever - Refers to the idea that every action or inaction of a senior leader is interpreted by those below them in the hierarchy. Where and when strategic leaders decide to become personally involved, and what they focus on, shapes and focuses the attention of efforts across the enterprise. 
+
+Leaders should consider the mix of levers they chose to pull. Both informal and formal levers are effective when applied appropriately. 
+
+Senior leaders tend to often over rely on formal levers/use them in a reactionary way
+
+Formal levers are top-down, informal levers are bottom-up control mechanisms
+
+**Implications**
+Strategic leadership of a complex system requires a depth of patience, resilience, foresight, and the character required to look beyond immediate events and to anticipate how decisions will be received by diverse stakeholders. This requires sophisticated intellectual understanding of second- and third-order consequences of decisions, and highly refined communication skills to meaningfully explain the trade-offs in decisions that may favor some groups over others yet move the enterprise toward strategic objectives.
+
+#### Chapter 4. Competitive Strategy
+Competitive systems require strategies for making choices
+
+**Strategy - are guidelines for decision-making in conditions of competitive uncertainty, with the purpose of reducing that uncertainty and creating or maintaining an advantage**
+
+Competitive strategies prioritize and balance contradictions over time, space, and scale. All strategy is based on expectations of a causal relationship between an action and a desired (or undesired) effect
+
+Competitive Strategy Categories
+- Deliberate or Emergent
+- Direct or Indirect
+- Based on Limited or Unlimited Resources
+- Can involve competition based on quality, quantity, or a mix
+
+**Ways of Competing**
+- Deliberate - reflect a heroic view of competition in which leaders survey the environment and build and implement strategies. They produce an ordered result that reflects the will of the key decision-makers in an organization. Tend to be top-down or centralized
+		- Controlled, conscious, and formal processes, decomposed into distinct steps
+		- Place responsibility for the overall process with the chief executive
+		- Produce fully-formed strategies that are implemented through detailed attentions to objectives, budgets, programs etc. 
+	- Active Deliberate - Proactive and involve taking the initiative by making choices that start new chains of causation. 
+	- Passive Deliberate - Reactive and involve making choices to frustrate, delay, or break the chain of causation that your adversary is budling. Tend to have less control over timing and are more reactive
+- Emergent - Display unintentional order that arise from patterns of decision-maker over time, and order is not clear until after the fact. Tend to be bottom-up  or decentralized, and occur through learning
+	- Assumes that the complex and dynamic nature of the organization's environment:
+		- precludes deliberate control
+		- strategy making must above all take the form of a process of learning over time in which at the limit formulation and implementation become indistinguishable
+	- Responsibility for strategy learning and development throughout the organization - many potential strategists
+	- Leaders responsible for managing a process of strategic learning
+	- Finds strategies first as patterns out of the past, and only later perhaps as deliberate plans for the future
+	Emergent and Deliberate strategies are not mutually exclusive and organizations use each one at distinct stages of competition
+
+- Direct - Tend to focus within levels of national security strategy. Make the enemy helpless to resist by physically destroying their military capabilities
+- Indirect - Tend to focus across levels of national strategy. Convince the enemy that accepting our terms will be less painful than continuing to aggress or resist
+	- More complex and time consuming
+	- Connections between cause and effect are longer with greater risks of miscalculation and error
+1. Indirect strategies are most evident in a willingness to accept a competitive disadvantage at one level in pursuit of a competitive advantage at a higher level
+2. One competitor can employ a direct strategy while its opponent employs an indirect strategy
+3. Indirect strategies can become direct when an adversary 'levels up' its own strategy
+
+- Strategies of Quality - Focus on differentiation seeking overmatch. Product differentiation in terms of business competition
+- Strategies of Quantity - Focus on mass. Cost differentiation in terms of business competition
+
+**Competitive Narratives**
+The stories we tell about strategic competition can be as powerful as the facts themselves
+
+At the strategic level the meaning we give to reality differs based on how we collectively interpret it - how we socially construct it
+
+Strategy does not merely need to orchestrate tactical actions (use of force) but also construct the interpretive structure which gives them meaning and links them to the end of policy
+
+Leaders get influence, if not outright define, the meaning of reality. Recognizing the constructive possibilities of strategy can dramatically expand strategic choice and give rise to more creative strategies
+
+The social construction of knowledge means that the social environment, with its relationships, culture, norms, and values, significantly influences how we understand the world, and how we understand the world affects what we know to be true
+
+In a socially constructed context, a leader has maneuver space to shape the meaning of facts, and therefore transform our understanding of reality.
+
+Transforming leaders do not change the facts; they change what the facts mean by constructing new possibilities
+
+Though leaders cannot, on their own, successfully advance a strategic narrative, they have freedom to create and preserve options domestically and internationally by creatively interpreting established facts.
+
+**Conclusion**
+Effective organizational leadership is the essential condition of competitive success
+
+### Reading 2 - The Strategic Environment
 
 
 ### Reading 3 - *Managing Chaos in the Era of Great Power Competition*
