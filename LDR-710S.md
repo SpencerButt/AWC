@@ -277,6 +277,71 @@ Though leaders cannot, on their own, successfully advance a strategic narrative,
 Effective organizational leadership is the essential condition of competitive success
 
 ### Reading 2 - The Strategic Environment
+- The process of strategic leadership and decision making starts with an assessment of the environment
+- Strategy is '*plan-like*' but **broader in scale, long term** in nature, and **surrounded by more uncertainties** 
+- Organizational strategic choices may be limited by environmental constraints
+- Successful strategic decisions will, by accident or design, shape the future conditions and the competitive advantaged enjoyed by the organization at that time
+
+#### Model of How Environment Prompts Strategic Decisions
+- **Competitive Advantage** - An attribute of an organization, institution, or nation, that enables it to compete more effectively for resources, and thus to survive
+	- strategic organizations, institutions, and nations operate within open systems
+	- strategic organizations as a part of open systems, are dependent on resources for survival
+	- strategic organizations must compete for resources 
+	- Competition for resources begins with a **strategic scan**
+##### Strategic Scan Steps
+1. Scan forward
+2. create estimates that enable identification of long-range goals
+3. implement courses of action designed to gain competitive advantage
+   
+- The national security strategy sets the plan to achieve the objectives that will provide a high level of security for the nation and its citizens ****in the long term****
+- **Key Questions about the Strategic Environment**
+	- Who are the major competitors
+	- How competitive is the organization for the long-term, why?
+	- What enhances/distracts from the organizations long term competitiveness
+	- What is the organization doing for strategic planning to remove obstacles and exploit advantages
+	- What are the resource problems for the future - what is the plan to deal with them
+	- What are the threats to long-term survival
+**Frame of Reference** - strategic decision makers gain a sense of the dynamic forces in the operating environment - applicable history coupled with the reflection needed to examine the flow of events over time in order to understand the cause and effect linkages to operations
+**test** - Conceptual skill and openness to evaluate the historical frame of reference over time to ensure it is still representative of the real world (current operational environment)
+
+**Barriers to Accurate Strategic Scans**
+- Strategic leaders personal views 
+- Strategic leader holding stake in the outcome of decisions
+- Personal values of the strategic decision maker (self-esteem, hurting career prospects, loosing support of key constituents)
+##### VUCA Barriers to Decision Making Process
+The Strategic Decision Making process must deal with the VUCA barriers
+
+**Robust System** - Capacity for timely system change. Either anticipate or adapt to environmental change to maintain competitive advantage
+
+- Volatility - rate of environmental change
+	- Volatility arises from the competitive nature of the world and the competition for finite resources
+	- The challenge to strategic leaders, to their leadership and decision making processes is increasing at a critical pace
+- Uncertainty - unpredictability of change
+	- Uncertainty results from both the complexity of systems and subsystems at the strategic level and from the incomplete knowledge about the current situation
+	- The rate of change in the global environment and uncertainty about what the effects of known changes are likely to be cause uncertainty
+	- competitors also seek to conceal their actions and intentions adding to uncertainty
+	- Strategic leadership and decision making must resolve uncertainty (to the maximum possible extent) by penetrating an adversaries actions to conceal/confuse 
+- Complexity - intricacy of key decision factors
+	- cause and effect relationships are difficult to see and asses. 
+	- there are many causes and many divergent effects exists
+	- many-linked cause and effect chains exist in the strategic environment
+	- The challenge to strategic leadership is twofold
+		- a frame of reference or perspective that is dynamic enough for the decision maker to recognize, understand, and explain to others; and,
+		- a leader's mastery of decision tools and processes that enable them to bring a broader set of perspectives than just their own into the decision making process
+- Ambiguity - vagueness about the current situation and potential outcomes
+	- Exists when a given event or situation can be interpreted in more than one way
+	- May also exist because the intentions of other actors in the strategic environment bay either not be known or may be misinferred (by accident or by adversary design)
+	- The challenge to strategic leadership is recognizing that the decision maker cannot have a 'stand-alone' perspective, and that effective strategic decisions must flow from a managed process that produces a perspective through consensus that is broader than any single person probably possesses
+##### National Security Strategy
+- VUCA are not independent concepts - each feed the other
+- successful strategies must be compatible with the world that will form over the next three to four decades
+- we are likely in the midst of the information age revolution that will transform the course of human history and make old paradigms useful for interpreting world events no longer applicable in the future-'information'-environment
+- The challenge for strategic leadership is to understand the now-occurring dynamics of change and develop the clearest possible visualization of the end results of change with enough lead time to ensure a competitively advantageous position can be achieved
+
+##### VUCA as a Base
+- Coping with VUCA is the essence of strategic leadership
+- VUCA requires understanding different cultures, different kinds of national objectives, and different means other nations employ to achieve their objectives
+- Strategic leadership must be based on a broader frame of reference 
 
 
 ### Reading 3 - *Managing Chaos in the Era of Great Power Competition*
