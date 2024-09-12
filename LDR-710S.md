@@ -343,8 +343,34 @@ The Strategic Decision Making process must deal with the VUCA barriers
 - VUCA requires understanding different cultures, different kinds of national objectives, and different means other nations employ to achieve their objectives
 - Strategic leadership must be based on a broader frame of reference 
 
-
 ### Reading 3 - *Managing Chaos in the Era of Great Power Competition*
+* Title: Managing Chaos in the Era of Great Power Competition
+* Author: Austin Long, Linda Robinson, Seth G. Jones
+* Date: 5 Sep 2017
+* Publisher: War on the Rocks
+
+#### Thesis
+- Three is a growing danger that U.S. national security strategy will focus too much on convectional aspects of great and regional power competition and neglect the importance of 'short-of-armed' conflict (grey zone)
+- Today's world does not allow a single strategic focus
+
+#### Threats to the U.S.
+- The U.S. faces three distinct but interrelated security challenges
+	1. Renewed competition with great powers (China & Russia)
+		- Competition will focus on the nature of the international order
+		- Competitors seek to alter the current order through
+			- Force
+			- Coercion
+			- Influence Operations
+	2. Regional challengers (Iran & North Korea)
+		- Regional challengers lack the ability to shape the international order
+		- These states reject America's role in their region
+	3. Chaos within states (violent sub-state actors, terrorist organizations, militias, criminal gangs)
+		- these actors feed on and sustain chaos inside states and regions
+- U.S. strategy has neglected the connection between state-based challenges (China, Russia, North Korea, Iran) and that of sub-state actors
+- U.S. policy is failing to address the wider challenge of sub-state threats with the exception of some acute threats (Islamic State / Houthis in Yemen)
+
+#### Boundaries between Security Challenges
+<start here>
 
 ## Meta-Leadership Model
 
