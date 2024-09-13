@@ -352,7 +352,7 @@ The Strategic Decision Making process must deal with the VUCA barriers
 #### Thesis
 - Three is a growing danger that U.S. national security strategy will focus too much on convectional aspects of great and regional power competition and neglect the importance of 'short-of-armed' conflict (grey zone)
 - Today's world does not allow a single strategic focus
-
+- As the U.S. revitalizes its conventional and nuclear deterrence capabilities it does not have the luxury of ignoring sub-state challenges. U.S. strategy that incorporates this fact could manage the chaos of the strategic environment at a reasonable cost
 #### Threats to the U.S.
 - The U.S. faces three distinct but interrelated security challenges
 	1. Renewed competition with great powers (China & Russia)
@@ -370,9 +370,93 @@ The Strategic Decision Making process must deal with the VUCA barriers
 - U.S. policy is failing to address the wider challenge of sub-state threats with the exception of some acute threats (Islamic State / Houthis in Yemen)
 
 #### Boundaries between Security Challenges
-<start here>
+- Boundaries between great powers, regional challengers, and sub-state actors are fluid, or non-existent
+	- Cold War era conventional and nuclear deterrence and containment of the Soviet Union drove competition into 'gray zone' competition
+	- marked by great-power use of sub-state actors by both sides to achieve strategic competition goals 
+- Regional challengers make extensive use of sub-state actors
+- Resources (dollars, manpower, etc) spent on sub-state actor threats, pull from resources that could be used to fund competition against adversary great power competitors 
+- U.S. strategy must balance the need to address sub-state actors with great-power competitors 
+##### Guidelines for U.S. Strategy to Address Sub-State Actors
+1. U.S. defense strategy needs to more fully prepare for unconventional competition with state adversaries. U.S. Special Operations Forces can play an essential role in countering unconventional strategies and tactics by great powers and regional competitors.
+2. U.S. defense strategy must be integrated within a whole-of-government interagency approach. Military measures to counter threats are necessary, but will not be effective if they are not integrated with capabilities that exist beyond the DoD. 
+	- Adversaries are playing a multifaceted game that must be met with a similar sophisticated array of measures. 
+	- Overreliance on costly military measures are a recipe for draining national coffers without definitive resolution of wide range for threats to U.S. interests.
+3. Strategy should adopt a proactive, not reactive, stance toward the sub-state challenge
+	- New sub-state groups are week and vulnerable to co-optation or coercion
+	- Proactive and early 'operational preparation of the environment' can allow the U.S. to become aware of emerging challenges and deal with them before they become threats
+4. Strategy should ensure long-term continuity in the individual teams at the operational and tactical level is crucial for managing sub-state actors in different regions and states to leverage the expertise and relationships that will produce results
+5. Strategy should embrace U.S. allies, partners, and proxies to do the heavy lifting.
+	- U.S. special operations community uses the maxim 'by, with, and through' 
+	- Requires accepting that U.S. allies, partners, and proxies have their own interests and will not simply adopt U.S. objectives wholesale and without comment
+6. Strategy should consider that commitments must remain limited and will produce limited, but valuable, results. Limited commitments add up on a global scale so strategists will likely have to prioritize some regions and assume risk in others
 
 ## Meta-Leadership Model
+- Meta-leadership model aids strategic leaders in building resilient and flexible organizations, capable of connectivity and coordination with outside agencies in order to achieve overlapping missions with broad scopes
+- Meta-leadership, however, builds cross-agency and cross-government coordination of strategy and effort
+- Meta-leaders have a greater breadth of focus, encouraging people and organizations to extend beyond their traditional domains to achieve an extra-organizational outcome
+- Meta-leaders must understand the drives and motivations present within other organizations - they also must be able to "speak the language" of other organizations, which requires a degree of cross-cultural competence in order to achieve a synergy of effort and to reduce the competition that often exists between organizations
+### Reading 1 - Meta-Leadership: A Framework for Building Leadership Effectiveness
+* Title: Meta-Leadership: A Framework for Building Leadership Effectiveness
+* Author: Dr. Leonard J. Marcus, Dr. Barry C. Dorn, Joseph Henderson, Eric J. McNulty
+* Date: 2015
+* Publisher: National Preparedness Leadership Initiative, Harvard School of Public Health
+
+#### Abstract
+- Large organizations and the work they accomplish are becoming less hierarchical and more reliant on complex and inter-dependent connections with other entities. Leading in such an environment requires expanded thinking and activity beyond one’s formal bounds of authority. Meta-leadership is a theoretically robust and pragmatically useful evidence-based framework and practice method for generating widespread influence and cohesive action that expands the leader’s domain of engagement, leverage, and efficacy.
+
+#### Introduction
+- Modern organizations, marked by diverse workforces, dynamic and ubiquitous information systems, complex supply chains, strategic alliances, and outsourced resources, requires the transformation of the traditional leader 
+- Modern strategic leadership requires the exercise of leadership across a network of entities with interactive, interdependent and creative processes within and outside one's own agency or firm- it is no longer a simple matter of leading within a well-defined hierarchy
+- Leaders are challenged to use influence as much as or more than, formal authority - authority and accountability structures are more reciprocal and relational
+- The best evidence of effective leadership in situations where leaders must catalyze action above and beyond their formal lines of decision-making and control is **unified commitment among all stakeholder** (internal and external to the leaders own organization) - 'connectivity'. To achieve, leaders exhibit ***Meta-Leadership*** by simultaneously
+	- Lead down in the traditional sense
+	- Up to the people or organizations to which they are accountable
+	- Across to activate peer groups and others within their organization with whom there is no formal subordinate relationship
+	- Beyond to entities outside the leader's organization or chain of command
+- Meta-Leadership addresses leadership challenges that cross inter- and intra-organizational boundaries as well as those found within hierarchical structures
+#### The Model of Meta-Leadership: Origins and Extensions 
+- Failures of rigidly hierarchical organization structures underscore the need for incorporation of more flexible, adaptive, and integrative styles - meta-leadership
+- 'Meta' is applied to systematically identify cross-cutting themes found in many different leadership styles, and combining and synthesizing findings about a range of leadership questions in search of overarching thinking and conclusions
+- Meta-Leadership connects what have otherwise been disparate areas of inquiry about leadership into a cohesive, interdepended framework
+
+#### Output vs. Input and Throughput
+- The output (or product) of leadership is as important as input (individual competencies), and throughput - Meta-Leaders seek to achieve results that cannot be accomplished by one organization, unit, or department - typically their own - in isolation
+- Broad, consequential objectives both appeal and require participation by people who work in entirely different organizations, and/or levels of a hierarchical framework. By linking the efforts of the numerous organizations/actors and many disconnected organizational units, the meta-leader, operating without direct or explicit authority, leverages and integrates their activities to accomplish something - an output - that not would otherwise be achievable
+
+#### Dimensions of Meta-Leadership: Design, Concept, and Practice
+- Meta-Leadership is not a new theory of leadership
+- Meta-Leadership is a framework that helps organize, integrate, and make more useful relevant insights from the large volumes of leadership analysis, practice, and scholarship
+- Meta-Leadership framework provides three important advantages
+	1. A conceptual framework and common vocabulary that describes intentional networking and cohesion within, across and beyond formal organizational boundaries to connect the purposes of work of different stakeholders
+	2. A purposeful strategy for action to advance coordinated planning and activity
+	3. A compelling mission and rallying cry for both leaders and followers that inspires, guides, and instructs, setting a higher standard and expectation for performance and impact
+- Meta-Leadership addresses the complexities of generating a unity of action when many different constituencies must be focused into a broadly adopted strategy, plan, or mission even if their priorities and proclivities are conflicting - best aligning mission, strategy, tactics, and success metrics with the problem or opportunity
+- There are three dimensions of meta-leadership practice:
+	1. Person - represents the leadership capacity
+	2. Situation - an accurate perception constituting the leadership context
+	3. Connectivity - organizational or interpersonal capability: 
+		- *down* formal purview of authority
+		- *up* to those to whom one is accountable
+		- *across* to other departments/units/teams within the organization
+		- *beyond* to the various entities outside the organization
+- The intent of the meta-leadership framework and practice method is to draw different perspectives into a pragmatic, unified model
+#### Dimension One: The Person of the Meta-Leader
+- Meta-Leaders must have a high degree of emotional intelligence and the ability to process emotional intelligence in order to better navigate the social environment
+	- Self-awareness has been shown to correlate with leadership effectiveness
+	- Self-discipline, drive, understanding, and a capacity to from meaningful and satisfying relationships are critical in the effort to cross the usual divides and boundaries of organizational, professional, and cultural association
+	- Meta-Leaders strive to take actions that will achieve the greatest commitment from a wide scope of stakeholders, including those outside the formal chain of command. 
+	- Organizational cohesion in high-stress situations has been found to be lacking when trust-based relationships are absent
+- Meta-Leaders need to filter large, complex problems through a wide range of possible solutions
+	- They view situations as complex, adaptive systems where patterns of connections, dependencies, and interdependencies are better sources of understanding system behavior than is a focus on the individual components or actors
+	- Meta-Leaders have aptitude for using self- and situational insight for seeing the bigger picture particularly in fast-changing and emotionally charged situations
+#### Dimension Two: The Situation
+<start here>
+
+### Reading 2 - Meta-Leadership and National Security Preparedness: A Model to Build Government Connectivity 
+* Title: Meta-Leadership and National Security Preparedness: A Model to Build Government Connectivity
+* Author: Leonard J. Marcus, Barry C. Dorn, Joseph M. Henderson
+* Date: 2016
+* Publisher: National Preparedness Leadership Initiative, Harvard School of Public Health
 
 ## Spanning Boundaries
 
