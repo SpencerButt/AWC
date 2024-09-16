@@ -1,5 +1,5 @@
 
-# Lesson 1 - The Strategic Environment
+# Lesson 1 - The *Strategic* Environment
 
 ## Introduction
 
@@ -509,6 +509,16 @@ The Strategic Decision Making process must deal with the VUCA barriers
 * Date: 2016
 * Publisher: National Preparedness Leadership Initiative, Harvard School of Public Health
 
+#### Abstract
+- **Effective emergency preparedness and response requires leadership that can accomplish perceptive coordination and communication amongst diverse agencies and sectors**. Nevertheless, operating within their specified scope of authority, preparedness leaders in characteristic bureaucratic fashion often serve to bolster the profile and import of their own organization, thereby creating a silo effect that interferes with effective systemwide planning and response. This ***article describes a strategy to overcome traditional silo thinking: “meta-leadership,” overarching leadership that intentionally connects the purposes and work of different organizations or organizational units***. Thinking and operating beyond their immediate scope of authority, **meta-leaders provide guidance, direction, and momentum across organizational lines that develop into a shared course of action and a commonality of purpose among people and agencies that are doing what may appear to be very different work**. Meta-leaders are able to imaginatively and effectively leverage system assets, information, and capacities, a particularly critical function for organizations with emergency preparedness, a particularly critical function for organizations with emergency preparedness responsibilities that are constrained by ingrained bureaucratic patterns of behavior
+
+#### Introduction
+- Recent attempts at implementing coordination of resources across agencies have led to changes in organizational form and mandate - but the hoped-for change in behavior has been lagging
+- Silo/stovepipe effect of distinct and deeply ingrained bureaucratic cultures, budgets, and career ascendancy compels government agencies toward self-protectiveness, insularity, and allegiance to their own agency-based advocacy and independence.
+	- There remain long-standing traditions of rivalry and palpable struggles for control, especially among organizations with similar or overlapping missions and scope of responsibility
+
+#### An Expanded Nomenclature for Leadership: Meta-Leadership
+- 
 ## Spanning Boundaries
 
 ## Conclusion
