@@ -450,7 +450,58 @@ The Strategic Decision Making process must deal with the VUCA barriers
 	- They view situations as complex, adaptive systems where patterns of connections, dependencies, and interdependencies are better sources of understanding system behavior than is a focus on the individual components or actors
 	- Meta-Leaders have aptitude for using self- and situational insight for seeing the bigger picture particularly in fast-changing and emotionally charged situations
 #### Dimension Two: The Situation
-<start here>
+- The task of diagnosing and communicating the leadership context - what is happening -  is among the most difficult and most critical in any complex situation/crisis
+- Finding an appropriate solution depends first on precisely determining what is occurring
+- Difficulty due to the existence in the gap between objective reality and subjective assessment of the situation at hand
+- The greater the complexity, the more difficult it is to develop an evidence-based, clear, and actionable description of what is occurring and derive the most appropriate response
+- In a complex situation, a quick assessment that is close to the mark and moves the process forward is better than a slow, though more accurate, one that comes comes to late to make a difference - even if there are risks associated with premature decision-making
+- A tool to enable leaders to hone their understanding and to build on decisions already made and actions already taken is the *POP-DOC Loop*
+	1. Perceive - opening one's mental aperture to gather as much data as possible
+	2. Orient - Narrow the aperture as patterns appear and make it possible to separate relevant from irrelevant data
+	3. Predict - Use identified patters to anticipate the trajectory of events and generate options
+	4. Decide - Commit to a course of action
+	5. Operationalize - Secure and deploy sufficient resources to carry out the decision
+	6. Communicate - Ensure all relevant stakeholders know what is happening, what they can expect, what is expected of them, and pull in information useful in reassessing the situation and what can be done about it
+	- **POP-DOC Loop Figure** ![[Pasted image 20240916092608.png]]
+	- POP-DOC loop can, and should, be traversed multiple times as the situation unfolds
+#### Dimension Three: Connectivity 
+- Meta-Leadership requires moving stakeholders from individual self-interests to shared aligned interests
+- Leaders must build unity of mission and craft a strategic view of who needs to be involved and what will motivate individual participation
+- Individuals motivated by vision and message are inspired and empowered to reach beyond the confines of their particular role
+- Embedding connections institutionally ensures they continue to exist beyond the tenure of the individuals involved
+- People-to-people and organization-to-organization connections overcome barriers and gaps imposed by strict silo thinking
+- Building connectivity between persons and organizations does not required removing silos, instead the silos become semi-permeable membranes ensuring information and resources can flow to foster overall system function
+- **Distinct Facets of Connectivity Meta-Leadership**
+	1. Leading Down - traditional leadership to one's formal subordinates
+	2. Leading Up 
+		- Being able to effectively influence those to whom one is accountable
+		- Careful cultivation and management of the productive relationship with superior(s) may lead to as much or more power and influence as the superior
+		- Meta-Leaders help the superior focus on priority objectives and advances the organization toward key goals with personal costs or benefits as a secondary consideration 
+	3. Leading Across
+		- Refers to relationships with other departments or organizational-units within the same authority framework, or intra-organizational engagements
+		- Effective 'leading-across' generates a common, yet complex, thread of interests and involvement among entities that look at challenges from distinct and complementary vantage points
+		- Aligning assets and interests across inter-organizational units activates more than what any one organizational unit can do on its own
+		- Meta-Leader should focus attention on the shared opportunity while tempering forces of suspicion and jealousy that constrain achievement
+		- Leader must identify and understand the individual intrinsic motives of different stakeholders - each entity must be recognized by their own unique profile of interests, experiences, and contributions to the shared enterprise
+		- Meta-Leader knows action and early triumphs are a critical factor in demonstrating the value added of working together
+		- Cohesion between organizational-units must be embedded into the thinking and activity of units and people - it can't begin the moment of decision and action
+		- Designing and building cross-system action linkages must be a strategic and intentional effort by which both the process and outcome of the effort attest to the benefits of working toward common purposes
+	4. Leading Beyond
+		- Refers to relationships to other departments or organizational-units related without an overarching power/authority framework, governance structure, nor common chief executive - This is influence in the absence of overarching authority
+		- It is up to the Meta-Leader to foster a solution-oriented direction and interest-based negotiation between organizations
+		- Meta-Leader must convincingly make the case that the combined objectives are best achieved through connectivity of effort and then guide the process to successfully achieve the desired end state
+#### On Being a Meta-Leader
+- Meta-Leaders take a wider, system-level view of both opportunities and challenges with an emphasis on broader constituencies of followers essential to success *no mater to whom they report*
+- Leadership effectiveness is defined as "people follow you" by their own volition
+- Meta-Leaders convincingly define a higher purpose - making the case that by acting across and beyond the confines of their own organizational entities, the component participants will accomplish more and function with less friction, thereby deriving the collective benefits of the combined enterprise 
+- The Meta-Leader's vision and the process charted so compelling that others follow
+- Two Aspects of Leadership Equation to create a broad expanse of influence
+	- Traditional hierarchical leadership - the primary source of recognition and authority
+	- Social Movement Leadership - advocate exercise to inspire and engage people without explicit authority to persuade followership. Blend of commitment to a purpose, charisma, and talent to motivate
+#### Conclusion
+- The command-and-control model does not uniformly fit into the Meta-Leadership framework
+- In Meta-Leadership, organizations are more distributed
+- Meta-Leadership is a framework and practice model well-suited to situations that are built on trust and influence more than formal authority
 
 ### Reading 2 - Meta-Leadership and National Security Preparedness: A Model to Build Government Connectivity 
 * Title: Meta-Leadership and National Security Preparedness: A Model to Build Government Connectivity
