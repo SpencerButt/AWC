@@ -569,5 +569,19 @@ The Strategic Decision Making process must deal with the VUCA barriers
 	- deepen the understanding and work of national preparedness (and other national-level problem sets)
 ## Spanning Boundaries
 
+### Reading 1 - Boundary Spanning Across Leadership Cultures: A Leadership Strategy for the Comprehensive Approach 
+* Title: Boundary Spanning Across Leadership Cultures: A Leadership Strategy for the Comprehensive Approach
+* Author: Richard L. Hughes
+* Date: 2010
+### Reading 2 - A Vision for Global Aviation Enterprise Development 
+* Title: A Vision for Global Aviation Enterprise Development 
+* Author: Mort Rolleston and Lt Col Peter Garretson
+* Date: 2014
+* Publisher: DIASM Online Journal & News Source
+### Reading 2 - From Rivals to Partners: AirSea Battle and the U.S. Air Force - Navy Relationship
+* Title: From Rivals to Partners: AirSea Battle and the U.S. Air Force - Navy Relationship
+* Author: Kevin Marsh & Christopher M. Jones
+* Date: 2015
+* Publisher: Defense & Security Analysis
 ## Conclusion
 
