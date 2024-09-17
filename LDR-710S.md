@@ -518,7 +518,55 @@ The Strategic Decision Making process must deal with the VUCA barriers
 	- There remain long-standing traditions of rivalry and palpable struggles for control, especially among organizations with similar or overlapping missions and scope of responsibility
 
 #### An Expanded Nomenclature for Leadership: Meta-Leadership
-- 
+- Commonly understood leadership works to build capacity within an organization
+- Meta-Leadership is intended to extend the common leadership definition to achieve cross-agency coordination of strategy and effort required for nation-state solutions
+	- 'Meta' used to refer to overarching leadership that connects the purpose and the work of different organizations or organizational units
+	- Meta-Leadership refers to guidance, direction, and momentum across organizational lines that develop into a shared course of action and a commonality of purpose among people and agencies that are doing what appears to be very different work
+	- Meta-Leaders are able to influence and accomplish such collaboration of effort across organizations - multi-jurisdictional, multi-agency, and public-private
+	- Meta-Leaders connect with, influence, and integrate the activities of diverse agencies, thereby motivating interaction, enhancing communication, and engendering cross-organizational confidence necessary for effective national-level problem solving
+- Meta-Leaders display the ability to:
+	- Legitimately and productively reach beyond their scope of authority and responsibility and, in the process, are able to generate linkages of purpose and activity that amplify their outcome and impact
+	- Leverage information and recourses across agencies extending what any unit alone could accomplish, by reducing interagency friction and creating a synergy of progress
+- Connectivity among agencies, organizations, and people with complementary missions is one by-product of meta-leadership
+#### Organizational Leadership and System Meta-Leadership: Commonalities and Distinctions
+- Power / Authority
+	- Traditional leaders derive power and influence form their formal job descriptions and authority
+	- Meta-Leaders seek to influence in other organizations thorough effective negotiation and the development of personal and organizational credibility that crosses organizational lines
+		- Meta-Leaders may achieve connectivity by purchasing it - through a business deal or memorandum of understanding - as part of a contractual deal between organizations
+		- More difficult when the meta-leader is advocating for common goals that offer no direct compensation
+		- More difficult when the desired shared purpose requires sacrifice (reduction of autonomy or independence, change in operating procedure) of an external organization
+		- Most difficult to accomplish connectivity involving new relationships between traditionally competitive agencies
+- Organizational Direction
+	- Traditional leaders are responsible for steering the course of their own organization
+	- Meta-Leaders must chart a new course in coordination with a range of other agencies outside the purview of prior organizational experience or responsibility
+- Organizational Familiarity
+	- Traditional leaders most often function (feel at ease) within the confines of their conventional work/silos
+	- Meta-Leaders must feel at ease acting when engaging with people/organizations beyond their professional domain or expertise 
+		- Must also enable external actors to feel at ease working in the Meta-Leaders organization
+	- Meta-Leaders must absorb and credibly apply concepts, facts, and vocabulary particular to other fields to better promote connectivity of effort
+- Relative Breadth of Focus and Intercession
+	- Traditional leaders work within organizations that authorize and condone their leadership
+	- Meta-Leadership requires leaders operate without the benefit of established authority, precedent, and consensus on what should be done or how it should be accomplished 
+	- Meta-Leadership thrives in the creation of something new and mission driven
+#### The Art and Practice of Meta-Leadership: Unique Skills, Capacities, and Perspectives
+- The art of Meta-Leadership derives from the capacity to envision a new connectivity of strategy and effort and then to communicate, inspire, and persuade broader participation
+- Meta-Leadership is creative and **transformational** 
+- Meta-Leaders, through their behavior and actions are able to motivate people to follow along - requires exceptional talent 
+- Meta-Leaders appreciate the distinct values, goals, motives, and missions of the different organizational silos within the enterprise
+- Meta-Leaders connect disparate groups by aligning core interests and motivations, redefining success as a product of combined action and interaction of the multiple organizations in coordinated synchronization - each of the organizations recognizes that its individual success is derived in some measure form the success of the whole endeavor
+- Meta-Leaders are able to persuade others to be motivated by an enlarged vision for what needs to be done and how it can be achieved
+- Meta-Leader engages imaginative multidimensional problem solving by looking at a problem and its considerations from all key angles and organizations
+- Key questions
+	- Who are the key stakeholders and how do they define the problem
+	- What are each of the unique interests and perspectives on the relevant challenge or question
+	- What must be accomplished, both for the individual organizations as well as the larger cross-enterprise problem
+- Multidimensional problem solving requires exquisite 'situational awareness' and an expert in accurate and efficient data collection, analysis, and packaging of information into strategic themes of action and interaction suitable for presentation in a form/format that has wide applicability and meaning for the intended audience
+- **Meta-Leaders are able to get people on board by helping them make sense of widely cast and disparate information, putting it into a coherent message that serves to unite people whom the meta-leader must recruit as followers**
+#### Conclusion: Meat-Leadership and National Emergency Preparedness Strategy
+- Meta-Leaders are able to 
+	- effectively span organizations and weave important connections amongst them
+	- incorporate the tone of critical thinking and perspective
+	- deepen the understanding and work of national preparedness (and other national-level problem sets)
 ## Spanning Boundaries
 
 ## Conclusion
