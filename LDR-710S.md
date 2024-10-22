@@ -573,15 +573,134 @@ The Strategic Decision Making process must deal with the VUCA barriers
 * Title: Boundary Spanning Across Leadership Cultures: A Leadership Strategy for the Comprehensive Approach
 * Author: Richard L. Hughes
 * Date: 2010
+#### Abstract
+* Leading a collective effort across organizations requires different approaches to leadership than those practiced within large hierarchical organizations - **boundary spanning across leadership cultures**
+
+#### Leadership Challenges in a Comprehensive Approach
+* Schematic representation of the comprehensive approach to leadership can be represented as a Venn Diagram of the various organizations
+* There are fundamental principals serving as strategic doctrine for implementing the comprehensive approach
+1. Interdependence: everything is connected to everything else - desired end states for a comprehensive approach are part of an interlocking system of systems
+2. Cooperation: Different actors can have different agendas yet still share a common strategic vision and work toward the same goal(s)
+3. Prioritization: There are competing demands that exceed available resource, while prioritize must be established, they must remain flexible
+4. Nesting: Short-term objectives are nested in longer-term goals
+5. Flexibility of Sequencing and Timing: Constant learning and calibration of strategies are required because the circumstances in any particular domain will always be dynamic
+6. Measurement of Progress: Using a system of metrics that translate lofty goals into measurable outcomes
+
+#### Business Strategy and Leadership Theory
+* Business strategy applies to all organizations
+* **Business strategy**: The pattern of choices an organization makes to achieve sustainable competitive advantage (Huges & Beatty)
+* **Leadership strategy**: Describes the organizational and human capabilities needed to enact the business strategy effectively
+* Typically there is insufficient attention to the leadership and cultural dimensions of transformation
+* Leadership cultures of the organization must be recognized and compared for fit and function to the business strategy 
+
+* Three Levels of Leadership Culture
+1. Interdependent - Leadership as a collectivity
+  - Agreement on direction is the result of shared exploration and the emergence of new perspectives
+  - Alignment results from ongoing mutual adjustment among system-responsible people
+  - Commitment results from engagement in a developing community
+2. Independent - Leadership emerges out of individual knowledge and expertise 
+  - Direction is the result of discussion, mutual influence, and compromise
+  - Alignment results from negotiation among self-responsible people
+  - Commitment results from evaluations of the benefits for self while benefiting the larger community
+3. Dependent - People in authority are responsible for leadership
+  - Agreement on the direction is the result of willing compliance with an authority
+  - Alignment results from fitting into the expectations of the larger system
+  - Commitment results from loyalty to the source of authority or to the community itself
+
+#### Boundary Spanning: Art and Theory
+* Boundary spanning leadership can be taught when boundaries are viewed as frontiers and areas of advanced activity
+* Accomplished through six social practices
+1. Buffering: Monitor and protect the flow of information and resources across groups to define boundaries and create safety 
+2. Reflecting: Represent distinct perspectives and facilitate knowledge-exchange across groups to understand boundaries and foster respect
+3. Connecting: Link people and bridge divided groups to suspend boundaries and build trust
+4. Mobilizing: Craft common purpose and shared identity across groups to reframe boundaries and develop community
+5. Weaving: Draw out and integrate group differences within a larger whole to interlace boundaries and advance interdependence
+6. Transforming: Bring multiple groups together in emergent, new directions to cross-cut boundaries and enable reinvention
 ### Reading 2 - A Vision for Global Aviation Enterprise Development 
 * Title: A Vision for Global Aviation Enterprise Development 
 * Author: Mort Rolleston and Lt Col Peter Garretson
 * Date: 2014
 * Publisher: DIASM Online Journal & News Source
+#### Introduction
+* A key pillar of the National Security Strategy is to leverage partnerships with other nations and international organizations to address the various challenges facing the U.S. 
+* Partner Nation (PN) assistance with their aviation enterprise development (AED) is a underutilized tool to implement guidance in the NSS
+* **Aviation Enterprise Development**: the plans, programs, and activities undertaken to develop the system-of-systems necessary for a nation to optimize employment of national aviation resources. The total aviation resource capacity and capability of a nation is defined by the sum total of all air domain
+* The U.S. should again think strategically about its AED assistance due to the strategic and economic interested are increasingly tied to areas (S.E. Asia, Africa, Latin America) which are poised to greatly expand their aviation enterprise
+
+#### How the Global Air Domain Benefits the Nation
+* America's utilization of the air domain has been essential in advancing all four enduring US strategic interests in the NSS
+1. Values - AED assistance involves experts from the U.S. and other 'friendly' nations working with the militaries and civilian authorities of the partner nations. This cooperation and relationship building often helps expand universal democratic and human rights values.
+2. Prosperity - Aviation's contribution to American prosperity is likely to increase due to the expected doubling of global air traffic (much in S.E Asia, Latin America and Africa) over the next 15-years.
+3. Security - America's use of the air domain is an essential enabler of activities to address global security challenges. Enhancing PN AED will enable the nations to address mutual challenges to US and PN security decreasing the burden on the US directly.
+4. International Order - Aviation enables the U.S., its allies, and its PNs to conduct operations that contribute to international order, both directly and in terms of improving the international security and stability of key partners.
+
+#### Returning to a Strategic Mindset in the Global Air Domain
+* Previous US AED strategy 1- invested at home in aviation transportation technology and infrastructure, and 2- shaped global AED through laws, institutions, and sales
+* Past investment in Europe and East Asia supported the development of military alliances in partnerships that persist to present-day
+* The US is confronted with a similar opportunity to help shape the global air domain to support strategic interests in the emerging areas of South Asia, Africa, and Latin America
+* This represents major challenges and opportunities for the United States and its enduring strategic interests of values, prosperity, security, and international order.
+* **The US should produce a vision and associated strategy for global AED, either separately or as part of a broader US assistance guidance, to guide and coordinate the whole-of-government effort**
 ### Reading 2 - From Rivals to Partners: AirSea Battle and the U.S. Air Force - Navy Relationship
 * Title: From Rivals to Partners: AirSea Battle and the U.S. Air Force - Navy Relationship
 * Author: Kevin Marsh & Christopher M. Jones
 * Date: 2015
 * Publisher: Defense & Security Analysis
+#### Abstract
+* AirSea Battle is ushering a new era of Air Force-Navy partnership that advances the inter-service dynamic from "jointness" toward integration. 
+* The emergent USAF-USN partnership represents a significant development in US defense politics and defense strategy
+
+#### Introduction
+* The USAF and USN has traditionally been marked by rivalry, competition and conflict since the establishment of the USAF as an independent service
+* The rise of area denial/anti-access (A2/AD) threat and the end of the 'counter-insurgency' era has started in a new dynamic in the USAF-USN relationship
+* Global A2/AD proliferation presents a serious threat to core US national security interests by undermining the power projection capabilities of the US military
+* In 2009 SecDef Robert Gates directed the USAF and USN to establish the Air-Sea Battle (ASB) operational concept to counter the A2/AD threat, maintain access, and ensure that the US retains power projection capabilities
+* In 2011 the Pentagon established the ASB Office (ASBO) to coordinate the development of the ASB concept
+* The development of ASB has advanced the USAF-USN relationship beyond improved coordination, cooperation, and 'jointness', and resulted in an unprecedented degree of integration between the USAF and USN
+
+#### ASB: advancing air force-navy integration
+* The ASB concept seeks to build a 'pre-integrated joint force' that can conduct integrated counter-A2/AD operations. 
+* Integration involves USAF-USN develop a common strategy, coordinating budget requests and weapon procurement policies, and implementing integrated exercises and training programs. 
+* ASB was intended to prevent the promotion of redundant, overlapping, and ineffective separate USAF & USN strategies to counter A2/AD
+
+##### Strategy
+* ASB is an integrated USAF-USN effort to counter the common threat of global A2/AD proliferation.
+* It is expected that the USAF & USN will have the bulk of ASB operational roles with USA, USMC, and USSF having supporting roles
+* ASB aims to involve “networked”, “integrated” “attack-in-depth” operations across various domains (air, sea, land, space, and cyber space)to “disrupt, destroy, and defeat” adversaries employing A2/AD weapons - 'breaking the kill chain' by disrupting the 'sequence of actions' required for an enemy to attack US forces with A2/AD
+* The ASB concept summary argued that effective networked forces required “interoperable procedures, (C2) structures, and equipment
+
+##### Budgets
+* USAF–USN budget coordination has contributed to substantial advances in the integration of weapons procurement policies and programs between the Air Force and Navy, thereby marking one of the most significant aspects of ASB’s contributions to the developing Air Force–Navy partnership
+* ASB has directly contributed to the ability of the Air Force and Navy to protect their respective budget shares in the current era of reduced defense budgets and looming sequestration
+* ASB provides these Services with a strategy that counters the A2/AD threat and also supports the Obama Administration’s overall defense vision and posture
+
+##### Weapons procurement 
+* Air Force and Navy have both refrained from returning to their traditional pattern of engaging in intense bureaucratic warfare over budgeting and procurement of strategic bombers versus aircraft carriers
+* This newfound USAF–USN cooperation regarding strategic bombers and aircraft carriers is especially important as these weapons platforms represent tremendous capital investments by both services
+* USAF–USN harmony on this issue is in large part the product of ASB
+* Significant challenges remain in successfully implementing interoperability between Air Force and Navy data links and communications systems
+
+##### Training
+* ASB is contributing to the growing integration of USAF-USN training programs and exercises - another noteworthy step in the evolution of the intra-service relationship from rivalry to partnership
+
+
+#### ASB: enduring or ephemeral USAF-USN partnership?
+##### Precipitating continued UASF-USN integration
+* Fully interoperable weapons, data, communications, and command and control systems are essential to the effective implementation of ASB and necessary to the operational concept working in wartime.
+* Continued USAF–USN partnership is dependent upon the full implementation of a true integrated warfare strategy - must make integrated warfare second nature through the use of integrated training exercises by reducing lingering organizational cultural differences in war fare strategy
+* Most difficult for precipitating an enduring USAF–USN partnership, is the matter of instituting consistent and wide-ranging coordination of budget requests and weapons procurement programs for the two Services.
+* Avoiding overlapping and redundant programs is essential to ASB implementation as well as to ensure that the Air Force and Navy can protect their budgets in the current era of fiscal pressures and sequestration
+* Organizational interests of the Air Force and Navy are protected through the coordination, cooperation, and increased integration of their budgets and weapons procurement requests in the pursuit of ASB implementation in the contemporary defense budgeting environment.
+
+##### Challenges to continued USAF-USN integration
+* ASB implementation requires eliminating some of the established tactics, procedures, and traditions of the Air Force and Navy to produce a “more integrated force able to operate across domains
+* Air Force and Navy leadership have acknowledged the difficulty in overcoming parochialism and traditional organizational culture
+
+#### Conclusion
+* The ASB operational concept is helping to transform the relationship between the Air Force and Navy from a traditional rivalry to a productive partnership
+* ASB is fostering a new era of inter-service interactions that move beyond “jointness” toward integration.
+* The common threat of global A2/AD proliferation binds these traditional rivals together and serves as a powerful incentive to further institutionalize inter-service cooperation, coordination, and integration.
+* The emergent USAF–USN alliance demonstrates how organizations can transform their relationship through consideration of mutual organizational interests
+* The severity of external threats (A2/AD), coupled with powerful incentives to protect respective budget share and influence and control over defense strategy, serve to bind the USAF and USN together
+* The Navy and Air Force have determined that partnership under the auspices of ASB is the most effective means for securing the vital interests and performing the tasks of both organizations
 ## Conclusion
 
